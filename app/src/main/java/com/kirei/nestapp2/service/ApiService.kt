@@ -1,4 +1,4 @@
-package service
+package com.kirei.nestapp2.service
 
 
 import com.kirei.nestapp2.model.ResponseNews

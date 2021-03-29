@@ -1,4 +1,4 @@
-package model
+package com.kirei.nestapp2.model
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

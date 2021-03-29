@@ -1,11 +1,9 @@
-package com.kirei.nestapp2
+package com.kirei.nestapp2.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.content.Context
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
 import android.view.View
 import com.google.firebase.auth.FirebaseAuth
 import com.kirei.nestapp2.R
